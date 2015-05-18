@@ -1,0 +1,11 @@
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\obj\x86\Debug\TestGljsh.csprojResolveAssemblyReference.cache
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\TestGljsh.exe
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\TestGljsh.pdb
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\Glshj.dll
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\OpenTK.dll
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\Glshj.pdb
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\OpenTK.pdb
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\OpenTK.xml
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\obj\x86\Debug\TestGljsh.exe
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\obj\x86\Debug\TestGljsh.pdb
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\tex\sqr.jpg
