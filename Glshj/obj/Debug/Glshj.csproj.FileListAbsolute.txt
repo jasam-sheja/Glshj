@@ -1,0 +1,8 @@
+D:\programing\Visual Studio Projects\Glshj\Glshj\bin\Debug\Glshj.dll
+D:\programing\Visual Studio Projects\Glshj\Glshj\bin\Debug\Glshj.pdb
+D:\programing\Visual Studio Projects\Glshj\Glshj\bin\Debug\OpenTK.dll
+D:\programing\Visual Studio Projects\Glshj\Glshj\bin\Debug\OpenTK.pdb
+D:\programing\Visual Studio Projects\Glshj\Glshj\bin\Debug\OpenTK.xml
+D:\programing\Visual Studio Projects\Glshj\Glshj\obj\Debug\Glshj.dll
+D:\programing\Visual Studio Projects\Glshj\Glshj\obj\Debug\Glshj.pdb
+D:\programing\Visual Studio Projects\Glshj\Glshj\obj\Debug\Glshj.csprojResolveAssemblyReference.cache
