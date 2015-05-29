@@ -9,3 +9,4 @@ D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\OpenTK.xml
 D:\programing\Visual Studio Projects\Glshj\TestGljsh\obj\x86\Debug\TestGljsh.exe
 D:\programing\Visual Studio Projects\Glshj\TestGljsh\obj\x86\Debug\TestGljsh.pdb
 D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\tex\sqr.jpg
+D:\programing\Visual Studio Projects\Glshj\TestGljsh\bin\Debug\tex\soft_fabric.jpg

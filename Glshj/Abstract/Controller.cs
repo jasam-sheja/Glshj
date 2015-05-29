@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 
@@ -85,9 +86,8 @@ namespace Glshj.Abstract
                     ebo = elementer.Buffer;
             }
 
-            GL.BindBuffer(BufferTarget.ArrayBuffer, 0);
             GL.BindVertexArray(0);
-            
+            GL.BindBuffer(BufferTarget.ArrayBuffer, 0);
         }
 
         public void setVbo(int vbo)
@@ -110,6 +110,7 @@ namespace Glshj.Abstract
             GL.BindVertexArray(0);
             if (haveTexture && haveTextcroods)
             {
+                GL.Color3(Color.White);
                 GL.BindTexture(TextureTarget.Texture2D, 0);
                 GL.Disable(EnableCap.Texture2D);
             }
